@@ -1,0 +1,19 @@
+ body {
+     background-color: #28282e80;
+     width: 100%;
+     max-width: 1024px;
+     margin: 0 auto;
+     font-size: 90%;
+ }
+ 
+ #Pouncy {
+     color: rgb(90, 13, 49);
+ }
+ 
+ img {
+     display: block;
+     width: 50%;
+     max-width: 50%;
+     margin-left: auto;
+     margin-right: auto;
+ }
